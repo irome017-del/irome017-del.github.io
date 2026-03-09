@@ -1,11 +1,10 @@
 ---
-title: "irome017-del.github.io"
+title: "Ivan Romero"
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](img/profile.jpg){width=300}
 
-```{r}
-1 + 1
-```
+Hi! My name is Ivan Romero. I am a student at UC Riverside studying Biology. 
+Welcome to my personal webpage!
