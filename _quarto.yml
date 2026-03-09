@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "irome017-del.github.io"
@@ -18,5 +19,3 @@ format:
     toc: true
 
 editor: visual
-
-output-dir: docs
