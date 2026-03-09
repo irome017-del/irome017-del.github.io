@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "irome017-del.github.io"
+  title: "Ivan Romero"
   navbar:
+    logo: img/profile.jpg
     left:
       - href: index.qmd
         text: Home
