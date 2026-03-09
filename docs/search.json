@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "View my Unit 3 HTML Project"
+  },
+  {
+    "objectID": "portfolio.html#my-class-projects",
+    "href": "portfolio.html#my-class-projects",
+    "title": "Portfolio",
+    "section": "",
+    "text": "View my Unit 3 HTML Project"
   },
   {
     "objectID": "index.html",
@@ -19,5 +26,12 @@
     "title": "Ivan Romero",
     "section": "",
     "text": "Hi! My name is Ivan Romero. I am a student at UC Riverside studying Biology. Welcome to my personal webpage!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
